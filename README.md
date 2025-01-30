@@ -23,13 +23,13 @@ JavaScript
 
 ## Como Usar
 
-Abra o arquivo index.html em qualquer navegador web.
+1. Acesse o site através do link hospedado no Vercel.
 
-Insira seu peso e altura nos campos correspondentes.
+2. Insira seu peso e altura nos campos correspondentes.
 
-Clique no botão "Calcular".
+3. Clique no botão "Calcular".
 
-O resultado será exibido abaixo do botão com sua classificação.
+4. O resultado será exibido abaixo do botão com sua classificação.
 
 ## Estrutura do Projeto
 
